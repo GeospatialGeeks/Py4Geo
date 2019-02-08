@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jan 19 17:53:04 2019
-
-@author: Geospatial Geeks
+@author: Zaheer Abbas
 """
-
-
 #     Part 1 :-   Building CNN
 
 # importing Keras libraries and packages
